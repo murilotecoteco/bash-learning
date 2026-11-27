@@ -1,0 +1,26 @@
+# Materiais de aula e cópias locais: não publicar.
+/materiais-locais/
+/materiais-utfpr/
+/slides/
+/originais/
+*.pdf
+*.PDF
+*.ppt
+*.pptx
+*.odp
+*.zip
+*.rar
+*.7z
+*.mp4
+*.mkv
+*.webm
+# Laboratório, diário pessoal e dados locais.
+/sandbox/
+/learning/local/
+*.local.md
+.env
+.env.*
+!.env.example
+*.log
+*~
+.DS_Store
